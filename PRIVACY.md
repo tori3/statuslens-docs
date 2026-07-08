@@ -29,7 +29,7 @@ StatusLens は Atlassian Forge プラットフォーム上で動作し、**Atlas
 
 ### お問い合わせ
 
-データの取り扱いに関する質問は trammel-orbiter-5p@icloud.com または
+データの取り扱いに関する質問は statuslens.security@en-rai.net または
 [GitHub Issues](https://github.com/tori3/statuslens-docs/issues) までお寄せください。
 
 ---
@@ -60,5 +60,5 @@ or stored outside Atlassian's infrastructure** (zero external egress).
 
 ### Contact
 
-Questions about data handling: trammel-orbiter-5p@icloud.com or
+Questions about data handling: statuslens.security@en-rai.net or
 [GitHub Issues](https://github.com/tori3/statuslens-docs/issues).

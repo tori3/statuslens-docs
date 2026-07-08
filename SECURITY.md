@@ -4,7 +4,7 @@
 
 If you discover a security issue in StatusLens, please report it privately:
 
-- Email: trammel-orbiter-5p@icloud.com (subject: "SECURITY: StatusLens")
+- Email: statuslens.security@en-rai.net (subject: "SECURITY: StatusLens")
 - Please do not open a public GitHub issue for security reports
 
 We aim to acknowledge reports within 3 business days and to release a fix as
